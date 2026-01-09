@@ -65,7 +65,7 @@ These warnings are normal for unsigned desktop applications.
 
 Download the latest version for your operating system from the official website:
 
-👉 https://quicksortfiles.vercel.app
+https://quicksortfiles.vercel.app
 
 No installers, no setup — just download and run.
 
